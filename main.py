@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # cd python\FastApiTestProject
 # uvicorn main:app --port 8000
 # --log-config "F:/python/FastApiTestProject/CONFIG_FILE_NAME"
-
+# some changes
 
 class Item(BaseModel):
     name: str
