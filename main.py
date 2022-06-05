@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 # --log-config "F:/python/FastApiTestProject/CONFIG_FILE_NAME"
 # test
 # some changes +
+# new commit i`m just testing pyCharm
 
 class Item(BaseModel):
     name: str
